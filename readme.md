@@ -1,7 +1,7 @@
 # GoogleColab
 
 - [GoogleColab](#Google-colab-python)
-
+- [Librerias](#Importando-librerias)
 
 ### Google colab python
 
@@ -16,5 +16,15 @@ import pandas as pd
 df = pd.read_csv('iris.csv')
 
 print(df)
+
+```
+
+### Importando Librerias
+```py
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+import scipy as sc
+import seaborn as sns
 
 ```
